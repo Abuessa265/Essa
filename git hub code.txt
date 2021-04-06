@@ -1,0 +1,8 @@
+git init
+git config --global user.name" "
+git config --global user.email" "
+git staus
+git add .
+git commit -m"Master code succesfully submitted"
+git log --oneline
+git push -u origin
